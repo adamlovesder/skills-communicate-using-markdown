@@ -3,7 +3,7 @@ This is some content
 - and a list item
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
